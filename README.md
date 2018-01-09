@@ -1,3 +1,3 @@
-# Machine_Learning_by_Andrew_Ng_Solved_Assignments
+# Solved Assignments of Machine Learning course by Professor Andrew Ng
 
-Solved programming assignments of Machine Learning course by Andrew Ng on Coursera
+Solved programming assignments of Machine Learning course by Professor Andrew Ng on Coursera
